@@ -1,0 +1,84 @@
+[33mcommit 1c69cead49ea6a771c6fa80a99f392023cd0d6ca[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: asepmuhidin <asep.muhidin@gmail.com>
+Date:   Tue Dec 19 16:06:03 2023 +0700
+
+    pre-host
+
+[33mcommit 5116ba348b395126087828a89c25a056dc86b041[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: wkisys dev <wkisys@wki.local>
+Date:   Tue Dec 12 16:41:18 2023 +0700
+
+    prepared to prod
+
+[33mcommit d8a27eec2ba6c366b3bc65e9d7c8b351d06fde60[m
+Author: wkisys dev <wkisys@wki.local>
+Date:   Mon Dec 11 16:27:37 2023 +0700
+
+    approval
+
+[33mcommit 59e42cfc3230a55d18c7cd840eb84a369ffb1bcf[m
+Author: wkisys dev <wkisys@wki.local>
+Date:   Fri Dec 8 16:56:28 2023 +0700
+
+    approve-unaprroved
+
+[33mcommit 79cf390ad84ae1f5def29f430fa62d160d4d0910[m
+Author: wkisys dev <wkisys@wki.local>
+Date:   Thu Dec 7 16:43:36 2023 +0700
+
+    edit tiket-view
+
+[33mcommit 9dbbf374a9556ef8df010ffbd3ed41895c307f3b[m
+Author: wkisys dev <wkisys@wki.local>
+Date:   Wed Dec 6 16:08:27 2023 +0700
+
+    auto email
+
+[33mcommit 17d2d3020528dc98924c021475a7d353bcfcdc86[m
+Merge: 72daf81 950c16a
+Author: wkisys dev <wkisys@wki.local>
+Date:   Tue Dec 5 16:44:56 2023 +0700
+
+    Merge branch 'main' of https://github.com/asepmuhidin/laracov
+
+[33mcommit 72daf817fbf43f9779223fc9d513ef2b4494aff6[m
+Author: wkisys dev <wkisys@wki.local>
+Date:   Tue Dec 5 16:26:03 2023 +0700
+
+    upload file
+
+[33mcommit 950c16ae1e1769bb78aa76417f6901874420262b[m
+Author: Asep Muhidin <asep.muhidin@gmail.com>
+Date:   Tue Dec 5 08:59:08 2023 +0700
+
+    Update README.md
+
+[33mcommit cfda4940ba1e3019293fd64f7e8ed015715dda91[m
+Author: asepmuhidin <asep.muhidin@gmail.com>
+Date:   Mon Dec 4 23:04:44 2023 +0700
+
+    email
+
+[33mcommit 90b837f4b52bbba96960e0cd569f62b05dcc7456[m
+Author: wkisys dev <wkisys@wki.local>
+Date:   Mon Dec 4 17:00:36 2023 +0700
+
+    uploaded
+
+[33mcommit 4c7e92a0422c4e8aad0af835d935599007ab7dd7[m
+Author: asepmuhidin <asep.muhidin@gmail.com>
+Date:   Mon Dec 4 10:30:34 2023 +0700
+
+    push 2
+
+[33mcommit 175559bd6fec1fa38e3a3d5d633b55b73514e2d6[m
+Author: wkisys dev <wkisys@wki.local>
+Date:   Thu Nov 30 16:45:43 2023 +0700
+
+    commit kedua
+
+[33mcommit 73af76e6945a326ae11e2a29d5cbd724de04cb79[m
+Author: wkisys dev <wkisys@wki.local>
+Date:   Wed Nov 29 16:44:52 2023 +0700
+
+    first commit
